@@ -1,0 +1,3 @@
+Practice Output ans:
+1.https://github.com/leungpo/git-basic
+2. The difference between add, commit and push are that add is used to add the files to staging area for committing. Commit is capturing a snapshot of the local repository's currently staged changes. Push is to put local changes to remote.
